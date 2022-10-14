@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imkpk
 - 👀 I’m interested in Node React Devops sometimes Angualar and Springboot.
-- 🌱 I’m currently learning ... React and Angular with Node sometimes DevOps, Springboot. Yes I do know Java. 
+- 🌱 I’m currently learning ... Angular with Springboot, yes I do know Java and sometimes DevOps.
 - 💞️ I’m looking to collaborate on ... Any project which relates with the Node.js for now. 
 - 📫 How to reach me ... call me on 9492925536
 
