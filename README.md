@@ -9,7 +9,7 @@ I'm a passionate full-stack developer with expertise in **Node.js**, **React**, 
 
 ## 💞️ Looking to Collaborate
 I'm actively looking to collaborate on projects that involve:
-- **Node.js** projects (primary focus)
+- **Node.js**  **React** **Spring Boot** projects (primary focus)
 - Full-stack JavaScript applications
 - Spring Boot backend services
 - Cloud infrastructure and DevOps initiatives
