@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @imkpk
+# 👋 Hi, This is Pratibha Kumar K
 
 I'm a passionate full-stack developer with expertise in **Node.js**, **React**, and **Spring Boot**. I'm also interested in DevOps practices and occasionally explore Angular for frontend development.
 
